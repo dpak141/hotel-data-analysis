@@ -17,3 +17,11 @@ Are the guest haivng personal car
 # What trends can we see in the data?
 
 Focus on average daily rates vs high season
+
+### Data Analysis Project Pipeline
+
+1. Build a Databse
+2. Develop the SQL query
+3. Connnect Power BI to the Database
+4. Visualize
+5. Summarize the findings
